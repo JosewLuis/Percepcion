@@ -2,7 +2,7 @@
 Repositorio destinado a la practica de la asignatura Percepcion.
 
 Normas:
-  ·Barcos: Portaavines=5 casillas.
+  ·Barcos: Portaaviones=5 casillas.
            Buque=4 casillas.
            Submarino=3 casillas.
            Lancha=1 casilla.
