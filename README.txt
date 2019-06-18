@@ -6,6 +6,7 @@ Normas:
            Buque=4 casillas.
            Submarino=3 casillas.
            Lancha=1 casilla.
+  Solo uno de cada.
   ·Posicion: Se debe dejar un hueco entre cada barco, por normas del juego (solo lados, se pueden en diagonal).
 
 ················
