@@ -1,4 +1,4 @@
-# Percepcion
+#Percepcion
 Repositorio destinado a la practica de la asignatura Percepcion.
 
 Normas:
